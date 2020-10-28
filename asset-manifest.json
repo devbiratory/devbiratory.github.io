@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/devbiratory/devbiratory.github.io.git/static/css/main.08624717.chunk.css",
-    "main.js": "/devbiratory/devbiratory.github.io.git/static/js/main.83a15ad0.chunk.js",
-    "main.js.map": "/devbiratory/devbiratory.github.io.git/static/js/main.83a15ad0.chunk.js.map",
-    "runtime-main.js": "/devbiratory/devbiratory.github.io.git/static/js/runtime-main.58e84283.js",
-    "runtime-main.js.map": "/devbiratory/devbiratory.github.io.git/static/js/runtime-main.58e84283.js.map",
-    "static/js/2.985e6dc9.chunk.js": "/devbiratory/devbiratory.github.io.git/static/js/2.985e6dc9.chunk.js",
-    "static/js/2.985e6dc9.chunk.js.map": "/devbiratory/devbiratory.github.io.git/static/js/2.985e6dc9.chunk.js.map",
-    "index.html": "/devbiratory/devbiratory.github.io.git/index.html",
-    "precache-manifest.0816a8bf40b15a62f80687749beb584e.js": "/devbiratory/devbiratory.github.io.git/precache-manifest.0816a8bf40b15a62f80687749beb584e.js",
-    "service-worker.js": "/devbiratory/devbiratory.github.io.git/service-worker.js",
-    "static/css/main.08624717.chunk.css.map": "/devbiratory/devbiratory.github.io.git/static/css/main.08624717.chunk.css.map",
-    "static/js/2.985e6dc9.chunk.js.LICENSE.txt": "/devbiratory/devbiratory.github.io.git/static/js/2.985e6dc9.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.08624717.chunk.css",
+    "main.js": "./static/js/main.83a15ad0.chunk.js",
+    "main.js.map": "./static/js/main.83a15ad0.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.b8e4c0d9.js",
+    "runtime-main.js.map": "./static/js/runtime-main.b8e4c0d9.js.map",
+    "static/js/2.985e6dc9.chunk.js": "./static/js/2.985e6dc9.chunk.js",
+    "static/js/2.985e6dc9.chunk.js.map": "./static/js/2.985e6dc9.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.8e3b817a00a34e000920466103bc2bac.js": "./precache-manifest.8e3b817a00a34e000920466103bc2bac.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.08624717.chunk.css.map": "./static/css/main.08624717.chunk.css.map",
+    "static/js/2.985e6dc9.chunk.js.LICENSE.txt": "./static/js/2.985e6dc9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.58e84283.js",
+    "static/js/runtime-main.b8e4c0d9.js",
     "static/js/2.985e6dc9.chunk.js",
     "static/css/main.08624717.chunk.css",
     "static/js/main.83a15ad0.chunk.js"
