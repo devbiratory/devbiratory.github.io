@@ -32,7 +32,7 @@ class App extends React.Component {
             <div className="card">
               <h2>{advice}</h2>
               <button className="buton" onClick={this.fetchAdvice}>
-                <span><h4>Unlock today's nudge</h4></span>
+                <span><h4>Unlock today's nudge!</h4></span>
               </button>
             </div>
           </div>
