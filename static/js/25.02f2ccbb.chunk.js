@@ -1,2 +1,0 @@
-(this["webpackJsonpflone-react"]=this["webpackJsonpflone-react"]||[]).push([[25],{618:function(t,e,n){"use strict";n.r(e);var a=n(0),o=n.n(a),c=n(44),r=n.n(c),s=n(56),u=new FormData;u.append("userName","Fred");e.default=function(){return Object(a.useEffect)((function(){r()({method:"post",url:"".concat(s.testing.apiUrl,"/v1/stripe/test"),data:u,headers:{"Content-Type":"multipart/form-data"}}).then((function(t){console.log(t)})).catch((function(t){console.log(t)}))})),o.a.createElement(o.a.Fragment,null,"asdfasdf")}}}]);
-//# sourceMappingURL=25.02f2ccbb.chunk.js.map
